@@ -11,15 +11,15 @@ In this project, we need to use a major Big Data system to perform a Data Engine
 
 ## Background
 * Apache Spark
-1. An in-memory analytics engine built on cluster computing technology
-2. Processing in Spark happens on RDDs, which is the fundamental data structure of Spark, stored in the memory of cluster
+  1. An in-memory analytics engine built on cluster computing technology
+  2. Processing in Spark happens on RDDs, which is the fundamental data structure of Spark, stored in the memory of cluster
 * Databrcicks
-1. Managed and optimized platform for running Apache Spark
-2. Provides whole bunch of tools out of the box
-3. Provides an integrated workspace to write the code and do real time collaboration
-4. Allows you to setup the infrastructure with few clicks and leave the rest for Databricks to manage
+  1. Managed and optimized platform for running Apache Spark
+  2. Provides whole bunch of tools out of the box
+  3. Provides an integrated workspace to write the code and do real time collaboration
+  4. Allows you to setup the infrastructure with few clicks and leave the rest for Databricks to manage
 * Data Pipeline
-A data pipeline usually includes the steps that move data from a source system, transform the data as required, and store the data in the target system. 
+  1. A data pipeline usually includes the steps that move data from a source system, transform the data as required, and store the data in the target system. 
 
 ## Steps
 1. Build a Azure Databricks Service and create a cluster
